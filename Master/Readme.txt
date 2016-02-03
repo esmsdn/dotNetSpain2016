@@ -1,14 +1,11 @@
-Gracias por participar en participar en dotNet Spain Conference 2016 como speaker.
+Gracias por participar en dotNet Spain Conference 2016 como speaker.
 
-Aquí tienes unos consejos sobre la preparación de las slides que vas a utilizar:
-- Utiliza todo lo posible la presentación master para que todas las presentaciones tengan el mismo formato. Si no puedes, haz que se parezca lo máximo posible (estructura, colores…)
-- Comprueba que utilizas correctamente el nombre de las marcas registradas (iOS y no IOS...)
-- No mezcles idiomas si no es necesario. Si utilizas un idioma como base de la presentación, intenta utilizarlo en todas las slides.
-- Si quieres copiar diapositivas, copia únicamente el contenido de estas y mantén el formato de la presentación master.
-- Intenta no poner demasiado texto en una sola slide. Los espectadores no tienen que leer, si no escucharte.
-- Te habrá sido proporcionado una url corta (aka.ms/) y un código QR para realizar las evaluaciones. Añádela en la última slide.
-- Unos días antes del evento te enviaremos la slide final de los patrocinadores. Remplaza la slide master de patrocinadores por esta nueva slide. 
+Aquí tienes un checklist con las tareas a realizar antes del evento:
+- Para tener todas las sesiones con un mismo formato, hemos creado una Master presentation (https://github.com/esmsdn/dotNetSpain2016/blob/master/Master/Master%20presentation.pptx?raw=true). Utilízala lo máximo posible.
+- Para seguir mejorando, tenemos unas evaluaciones a través de código QR y enlace corto. Inclúyelo en las dos últimas slides de tu presentación. Puedes encontrar el enlace corto y nomenclatura del QR en https://github.com/esmsdn/dotNetSpain2016/blob/master/Master/Survey/Encuestas.xlsx?raw=true y los QR en https://github.com/esmsdn/dotNetSpain2016/tree/master/Master/Survey/QR.
+- El evento se puede hacer gracias a los patrocinadores y colaboradores. La Master presentation tiene una slide para agradecerles su esfuerzo, pero está sujeta a cambios. Por ello, te rogamos que la modifiques si te enviamos una nueva versión de esta slide antes del evento.
+- Para poder hacer llegar a las presentaciones y recursos a los asistentes, envíanoslos a esmsdn@microsoft.com antes del 17 de febrero.
 
-Una vez la tengas terminada, envíanosla a esmsdn@microsoft.com para poder hacérsela llegar a los asistentes.
+Puedes consultar una guía de buenas prácticas para hacer presentaciones en https://blogs.msdn.microsoft.com/esmsdn/2015/04/15/presentaciones-de-cdigo-efectivas-con-visual-studio/. 
 
-¡Suerte!
+¡Nos vemos en #dotNetSpain2016!
